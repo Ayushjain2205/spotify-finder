@@ -1,6 +1,6 @@
 const APIController = (function () {
-  const clientId = '2a3547845b8b4aac94ec6a200722186e'
-  const clientSecret = '2c766ffbd67e4b23b0e44e77d289a230'
+  const clientId = ''
+  const clientSecret = ''
 
   //private methods
 
